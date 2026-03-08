@@ -57,5 +57,5 @@ oportunidades de mejora en logística, satisfacción del cliente y segmentación
 
 ## 👤 Autor
 
-**[Tu Nombre]**  
-Analista de Datos Jr.
+**Luis Jonathan Peregueza**  
+Economista - Analista de Datos Jr.
